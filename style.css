@@ -8,9 +8,9 @@ body{
 .headers{
     text-align: center;
     background-color: #facc15;
-    margin-bottom: auto;
 
     padding-top: 0.5rem;
+    border-radius: 5%;
     padding-bottom: 1rem;
 }
 .mid{
